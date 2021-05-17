@@ -1,0 +1,80 @@
+.blue {
+  background-color: #98c3e3;
+  padding: 10px 10px;
+}
+
+.green {
+  background-color: #88ade3;
+  padding: 10px 10px;
+}
+.name {
+  font-family: "Pacifico", cursive;
+  color: red;
+  padding: 10px 10px;
+}
+
+.rating {
+  color: green;
+  padding: 10px 10px;
+}
+
+.genres {
+  font-family: "Anton", sans-serif;
+  color: white;
+  padding: 10px 10px;
+}
+
+.year {
+  color: beige;
+  padding: 10px 10px;
+}
+
+.director {
+  font-family: "Open Sans Condensed", sans-serif;
+  color: red;
+  padding: 10px 10px;
+}
+
+.votes {
+  color: saddlebrown;
+  padding: 10px 10px;
+}
+
+.description {
+  display: inline-block;
+  padding: 10px 10px;
+  font-family: "Anton", sans-serif;
+  font-style: bold;
+  color: slateblue;
+}
+
+.source {
+  display: block;
+  background-color: white;
+  font-family: "Roboto Mono", monospace;
+  padding: 10px 25px;
+  border-radius: 15px;
+}
+
+.capat {
+  display: block;
+  padding: 0 25px;
+  font-family: "Anton", sans-serif;
+}
+
+.logo {
+  display: inline-block;
+  height: 100x;
+}
+
+.titlu {
+  font-family: "Pacifico", cursive;
+  padding: 0 260px;
+  background-color: cadetblue;
+  border-radius: 10px;
+}
+
+.img {
+  padding: 20px 20px;
+  height: 150px;
+}
